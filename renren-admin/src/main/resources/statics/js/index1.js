@@ -90,7 +90,7 @@ var vm = new Vue({
                 area: ['806px', '467px'],
                 closeBtn: 1,
                 shadeClose: false,
-                content: ['http://cdn.renren.io/donate.jpg', 'no']
+                content: ['https://img-blog.csdn.net/20180930155440951?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dhbmdBbkppYW8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70', 'no']
             });
         }
     },
